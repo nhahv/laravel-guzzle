@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "\\Laravel\\": "src/",
+            "NhaHV\\Laravel\\": "src/",
             "NhaHV\\Tests\\Laravel\\": "tests/"
         }
     },
