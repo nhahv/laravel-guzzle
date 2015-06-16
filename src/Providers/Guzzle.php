@@ -1,5 +1,5 @@
 <?php
-namespace Kozz\Laravel\Providers;
+namespace NhaHV\Laravel\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use GuzzleHttp\Client;

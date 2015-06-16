@@ -1,5 +1,5 @@
 <?php
-namespace Kozz\Laravel\Facades;
+namespace NhaHV\Laravel\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

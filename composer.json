@@ -1,5 +1,5 @@
 {
-    "name": "kozz/laravel-guzzle-provider",
+    "name": "nhahv/laravel-guzzle-provider",
     "description": "Guzzle Service Provider for Laravel 5",
     "keywords": ["laravel", "guzzle", "http"],
     "license": "MIT",
@@ -11,6 +11,10 @@
         {
             "name": "Yury Kozyrev",
             "email": "urakozz@gmail.com"
+        },
+        {
+            "name": "Nha.HV",
+            "email": "nhahv@tintuc.vn"
         }
     ],
     "require": {
@@ -23,8 +27,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Kozz\\Laravel\\": "src/",
-            "Kozz\\Tests\\Laravel\\": "tests/"
+            "\\Laravel\\": "src/",
+            "NhaHV\\Tests\\Laravel\\": "tests/"
         }
     },
     "extra": {

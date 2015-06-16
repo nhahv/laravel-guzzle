@@ -5,6 +5,17 @@ laravel guzzle service provider
 
 ## Install With Composer:
 
+### Add GitHub Repo
+```json
+
+	"repositories": [{
+    	"type": "vcs",
+    	"url":  "https://github.com/nhahv/laravel-guzzle.git"
+  	}]
+
+```  
+
+
 ### Guzzle ~5.0
 ```sh
 composer require kozz/laravel-guzzle ~5.0
